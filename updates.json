@@ -1,16 +1,13 @@
 {
   "version": "1.10.20",
   "date": "2026-03-20",
-  "title": "Closing ",
+  "title": "Fix Bug , Add features ",
   "changes": [
-    "🐞 Revamped Bug Reporting: Introduced a dedicated, fully themed bug report screen replacing the basic email flow",
-    "🛠️ Guided Issue Submission: Added structured instructions prompting users to attach screenshots or screen recordings for faster diagnosis",
-    "📩 Reliable Support Channel: Optimized the send action to consistently route reports to modstoredeveloperteam@outlook.com using robust Android intents",
-    "🔢 Version Upgrade: Updated app version to v2.01.01 across all info panels and report metadata",
-    "🌙 Premium Dark Experience: Finalized permanent dark mode with a refined, consistent UI and removal of theme switching",
-    "🎨 Icon Enhancement: Preserved and secured the signature Crimson Red & Black premium app icon",
-    "🔐 Seamless Permissions Flow: Integrated required storage permissions directly into onboarding for a smooth first-time setup",
-    "🧬 Biometric Security Verified: Ensured stability and reliability of the biometric vault protection system"
+    "🔄 Seamless in-app updates with real-time progress (no browser needed)",
+    "🎨 Premium full-screen UI redesign with refined dark aesthetics",
+    "🔢 Updated to version v1.10.20 with improved version accuracy",
+    "🧾 Fixed info sections to reflect the correct app version",
+    "🆕 'Recently Added' apps now appear at the top automatically"
   ],
-  "download_url": "https://github.com/ifyoucanfindme973-netizen/sorwe-store-data/releases/download/notStableyet1/MOD.STORE.v.1.10.18.apk"
+  "download_url": "https://github.com/Developer-For-Git/MOD-STORE/releases/download/New/MOD.STORE.v.1.10.20.apk"
 }
